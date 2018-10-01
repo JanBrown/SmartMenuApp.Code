@@ -8,7 +8,7 @@ namespace SmartMenuLibrary
 {
     public class SmartMenu
     {
-        public void LoadMenu(string path)
+        public void Load(string path)
         {
             // Implement ...
         }
